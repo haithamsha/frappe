@@ -3,9 +3,9 @@ from . import __version__ as app_version
 
 
 app_name = "frappe"
-app_title = "Frappe Framework"
-app_publisher = "Frappe Technologies"
-app_description = "Full stack web framework with Python, Javascript, MariaDB, Redis, Node"
+app_title = "Zero One ERP"
+app_publisher = "Zero1Systems"
+app_description = ""
 app_icon = "octicon octicon-circuit-board"
 app_color = "orange"
 source_link = "https://github.com/frappe/frappe"
